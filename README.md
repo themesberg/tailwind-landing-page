@@ -1,12 +1,14 @@
 ## Tailwind CSS Landing Page
 
-This repository is a demo on how to use [Flowbite Blocks](https://flowbite.com/blocks/) first published on the DEV community.
+This repository is an example of a simple landing page built with [Flowbite Blocks](https://flowbite.com/blocks/) based on the Tailwind CSS framework and Flowbite library.
+
+The tutorial was first published on the DEV community.
 
 ## Live preview
 
 Check out the live preview here:
 
-URL
+[Landing page demo](https://themesberg.github.io/tailwind-css-landing-page/).
 
 ## Getting started
 
@@ -20,8 +22,10 @@ Make sure that you have Node.js, Tailwind CSS and Flowbite installed.
 npx tailwindcss -i ./input.css -o ./output.css --watch
 ```
 
-## Flowbite Blocks
+## Built with Flowbite Blocks
 
 Get started with a huge collection of over 120+ website sections powered by Tailwind CSS and the Flowbite Library:
 
-- [Flowbite Blocks](https://flowbite.com/blocks/)
+🔗 [Flowbite Blocks](https://flowbite.com/blocks/)
+🔗 [Flowbite Library](https://flowbite.com/docs/getting-started/introduction/)
+🔗 [Tailwind CSS](https://tailwindcss.com/)

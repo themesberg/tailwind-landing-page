@@ -6,7 +6,7 @@ This repository is a demo on how to use [Flowbite Blocks](https://flowbite.com/b
 
 Check out the live preview here:
 
-URL
+[Landing page demo](https://themesberg.github.io/tailwind-css-landing-page/).
 
 ## Getting started
 

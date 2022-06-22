@@ -26,6 +26,6 @@ npx tailwindcss -i ./input.css -o ./output.css --watch
 
 Get started with a huge collection of over 120+ website sections powered by Tailwind CSS and the Flowbite Library:
 
-🔗 [Flowbite Blocks](https://flowbite.com/blocks/)
-🔗 [Flowbite Library](https://flowbite.com/docs/getting-started/introduction/)
-🔗 [Tailwind CSS](https://tailwindcss.com/)
+- 🔗 [Flowbite Blocks](https://flowbite.com/blocks/)
+- 🔗 [Flowbite Library](https://flowbite.com/docs/getting-started/introduction/)
+- 🔗 [Tailwind CSS](https://tailwindcss.com/)

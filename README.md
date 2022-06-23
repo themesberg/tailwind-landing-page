@@ -1,14 +1,12 @@
 ## Tailwind CSS Landing Page
 
-This repository is an example of a responsive landing page built with [Flowbite Blocks](https://flowbite.com/blocks/) based on the Tailwind CSS framework and Flowbite library.
-
-The tutorial was first published on the DEV community.
+This repository is an example of a responsive landing page built with [Flowbite Blocks](https://flowbite.com/blocks/) based on the Tailwind CSS framework and Flowbite library that you can use for your project.
 
 ## Live preview
 
 Check out the live preview here:
 
-[Landing page demo](https://themesberg.github.io/tailwind-css-landing-page/).
+[Landing page demo](https://themesberg.github.io/tailwind-landing-page/).
 
 ## Getting started
 
@@ -29,3 +27,8 @@ Get started with a huge collection of over 120+ website sections powered by Tail
 - 🔗 [Flowbite Blocks](https://flowbite.com/blocks/)
 - 🔗 [Flowbite Library](https://flowbite.com/docs/getting-started/introduction/)
 - 🔗 [Tailwind CSS](https://tailwindcss.com/)
+
+## Screenshot
+
+<a href="[http://google.com.au/](https://themesberg.github.io/tailwind-landing-page/)" rel="some text">![Tailwind CSS Landing Page Demo - Flowbite](https://flowbite.s3.amazonaws.com/github/screenshot.png)</a>
+

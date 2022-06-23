@@ -1,6 +1,6 @@
 ## Tailwind CSS Landing Page
 
-This repository is an example of a simple landing page built with [Flowbite Blocks](https://flowbite.com/blocks/) based on the Tailwind CSS framework and Flowbite library.
+This repository is an example of a responsive landing page built with [Flowbite Blocks](https://flowbite.com/blocks/) based on the Tailwind CSS framework and Flowbite library.
 
 The tutorial was first published on the DEV community.
 

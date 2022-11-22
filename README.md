@@ -1,3 +1,6 @@
+# [🔥 Black Friday 2022 - Get Tailwind CSS Templates for 90% Off](https://themesberg.com/black-friday)
+[![Themesberg Black Friday 2022](https://themesberg.com/img/campaigns/black-friday/og-image.png)](https://themesberg.com/black-friday)
+
 ## Tailwind CSS Landing Page
 
 This repository is an example of a responsive landing page built with [Flowbite Blocks](https://flowbite.com/blocks/) based on the Tailwind CSS framework and Flowbite library that you can use for your project.
